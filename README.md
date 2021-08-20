@@ -13,4 +13,4 @@
    - Delete File
    - List File
 
-The recording for the session can be found (here)[https://youtu.be/XAjIf7Empks]
+The recording for the session can be found [here](https://youtu.be/XAjIf7Empks)
